@@ -1,6 +1,10 @@
 # CTRDG
 ## 中文文本可读性分级数据集(Chinese Text ReaDability Grading dataset)
 ## 数据说明:
+```html
+<div style="background-color: #f2f2f2; padding: 10px;">
+text \t label
+</div>
 text \t label
 
 text：中文阅读文本
