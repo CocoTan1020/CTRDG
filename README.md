@@ -4,4 +4,5 @@
 
 验证集：dev.txt
 
-测试集样例：test_sample.txt
+测试集样例：test.txt
+
