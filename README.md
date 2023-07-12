@@ -1,5 +1,7 @@
 # CTRDG
-## 中文文本阅读难度分级数据集(Chinese Text Reading Difficulty Grading dataset)
+## 中文文本阅读难度分级数据集
+
+(Chinese Text Reading Difficulty Grading dataset)
 ## 数据说明:
 text \t label
 
