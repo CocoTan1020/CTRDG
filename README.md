@@ -2,11 +2,8 @@
 ## 中文文本可读性分级数据集(Chinese Text ReaDability Grading dataset)
 ## 数据说明:
 ```html
-<div style="background-color: #f2f2f2; padding: 10px;">
 text \t label
-</div>
-text \t label
-
+```
 text：中文阅读文本
 
 label：0-5，分别代表该中文阅读文本的可读性等级 (一级-六级)
